@@ -1,0 +1,11 @@
+D:\Programming\Software University\CSharp-ConsoleGames\Tetris\Tetris\bin\Debug\netcoreapp2.1\Tetris.deps.json
+D:\Programming\Software University\CSharp-ConsoleGames\Tetris\Tetris\bin\Debug\netcoreapp2.1\Tetris.runtimeconfig.json
+D:\Programming\Software University\CSharp-ConsoleGames\Tetris\Tetris\bin\Debug\netcoreapp2.1\Tetris.runtimeconfig.dev.json
+D:\Programming\Software University\CSharp-ConsoleGames\Tetris\Tetris\bin\Debug\netcoreapp2.1\Tetris.dll
+D:\Programming\Software University\CSharp-ConsoleGames\Tetris\Tetris\bin\Debug\netcoreapp2.1\Tetris.pdb
+D:\Programming\Software University\CSharp-ConsoleGames\Tetris\Tetris\obj\Debug\netcoreapp2.1\Tetris.csprojAssemblyReference.cache
+D:\Programming\Software University\CSharp-ConsoleGames\Tetris\Tetris\obj\Debug\netcoreapp2.1\Tetris.csproj.CoreCompileInputs.cache
+D:\Programming\Software University\CSharp-ConsoleGames\Tetris\Tetris\obj\Debug\netcoreapp2.1\Tetris.AssemblyInfoInputs.cache
+D:\Programming\Software University\CSharp-ConsoleGames\Tetris\Tetris\obj\Debug\netcoreapp2.1\Tetris.AssemblyInfo.cs
+D:\Programming\Software University\CSharp-ConsoleGames\Tetris\Tetris\obj\Debug\netcoreapp2.1\Tetris.dll
+D:\Programming\Software University\CSharp-ConsoleGames\Tetris\Tetris\obj\Debug\netcoreapp2.1\Tetris.pdb
